@@ -28,6 +28,7 @@ CVD-MAX/
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
+```
 
 ## Input
 - C/C++ source code or firmware
