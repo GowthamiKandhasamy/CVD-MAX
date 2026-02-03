@@ -4,10 +4,10 @@ It combines static analysis, dynamic analysis, and deep learning to detect
 vulnerabilities and predict CWE categories.
 
 ## Branches
-main -> Stable branch
-dev -> integration
-ingestion (for eg) -> Gowthami's branch
-cfg (for eg) -> Gaby's branch
+- main -> Stable branch
+- dev -> integration
+- ingestion (for eg) -> Gowthami's branch
+- cfg (for eg) -> Gaby's branch
 
 ### Note: Please work on your own branches and commit it to dev first. Only after discussion, shall we ever commit to the main branch. And update your commits to dev/main in the group.
 
