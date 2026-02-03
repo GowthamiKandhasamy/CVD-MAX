@@ -1,0 +1,5 @@
+digraph "CFG for 'main' function" {
+	label="CFG for 'main' function";
+
+	Node0x1b5a80179d0 [shape=record,color="#b70d28ff", style=filled, fillcolor="#b70d2870" fontname="Courier",label="{0:\l|  %1 = alloca i32, align 4\l  %2 = alloca [2 x i32], align 4\l  store i32 0, ptr %1, align 4\l  %3 = getelementptr inbounds [2 x i32], ptr %2, i64 0, i64 3\l  store i32 10, ptr %3, align 4\l  ret i32 0\l}"];
+}
