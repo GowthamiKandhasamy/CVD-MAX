@@ -4,3 +4,10 @@ torch
 torch-geometric
 scikit-learn
 matplotlib
+clang
+llvm
+llvm-dev
+cmake
+make
+git
+pyyaml
