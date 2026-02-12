@@ -4,3 +4,5 @@ torch
 torch-geometric
 scikit-learn
 matplotlib
+tensorboard>=2.13.0
+
