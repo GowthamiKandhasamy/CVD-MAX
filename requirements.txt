@@ -1,3 +1,6 @@
+pandas
+tqdm
+rapidfuzz
 networkx
 numpy
 torch
