@@ -1,4 +1,4 @@
-RAW_DATA_PATH = "data/raw/diversevul.json"
+RAW_DATA_PATH = "data/raw/diversevul_20230702.json"
 
 INTERIM_DIR = "data/interim/"
 PROCESSED_DIR = "data/processed/"

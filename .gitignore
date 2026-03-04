@@ -208,3 +208,7 @@ __marimo__/
 
 #data from other github
 data/
+
+#files
+data/interim/*.json
+data/processed/*.json

@@ -1,0 +1,14 @@
+{
+  "after_cleaning": {
+    "total": 242087,
+    "vulnerable": 15604,
+    "non_vulnerable": 226483,
+    "ratio": 14.51
+  },
+  "after_filtering": {
+    "total": 64717,
+    "vulnerable": 15559,
+    "non_vulnerable": 49158,
+    "ratio": 3.16
+  }
+}
