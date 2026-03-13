@@ -1,0 +1,26 @@
+{
+  "project": "test_proj",
+  "timestamp": "2026-02-05T13:57:30.944617",
+  "results": {
+    "expat\\lib\\xmlparse.c": {
+      "success": false,
+      "stderr": "D:\\Projects\\CVD-MAX\\data\\normalized_code\\test_proj\\src\\expat\\lib\\xmlparse.c:72:10: fatal error: 'expat_config.h' file not found\n   72 | #include \"expat_config.h\"\n      |          ^~~~~~~~~~~~~~~~\n1 error generated.\n"
+    },
+    "expat\\lib\\xmlrole.c": {
+      "success": false,
+      "stderr": "D:\\Projects\\CVD-MAX\\data\\normalized_code\\test_proj\\src\\expat\\lib\\xmlrole.c:42:10: fatal error: 'expat_config.h' file not found\n   42 | #include \"expat_config.h\"\n      |          ^~~~~~~~~~~~~~~~\n1 error generated.\n"
+    },
+    "expat\\lib\\xmltok.c": {
+      "success": false,
+      "stderr": "D:\\Projects\\CVD-MAX\\data\\normalized_code\\test_proj\\src\\expat\\lib\\xmltok.c:50:10: fatal error: 'expat_config.h' file not found\n   50 | #include \"expat_config.h\"\n      |          ^~~~~~~~~~~~~~~~\n1 error generated.\n"
+    },
+    "expat\\lib\\xmltok_impl.c": {
+      "success": true,
+      "stderr": ""
+    },
+    "expat\\lib\\xmltok_ns.c": {
+      "success": true,
+      "stderr": ""
+    }
+  }
+}
